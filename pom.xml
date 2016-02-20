@@ -5,7 +5,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>Connect to Database</name>
   <description>Connecting to a database</description>
-
+  <dependencies>
 	<!--dependency>
 	<groupId>org.seleniumhq.selenium</groupId>
 	<artifactId>selenium-firefox-driver</artifactId>
